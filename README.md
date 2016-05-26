@@ -33,4 +33,4 @@ codewars 這個網站提供相當多的練習範本而且是免費的
 * 然後讓我們一起練習解題吧
 * 加入Slack討論, 請參考[Soft & Share Kata入口網頁](https://softnshare.wordpress.com/slack/kata/)
 
-forum-kata 版主 James Yang 
+forum-kata 版主 [James Yang](https://github.com/jawayang) 
