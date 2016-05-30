@@ -33,4 +33,13 @@ codewars 這個網站提供相當多的練習範本而且是免費的
 * 然後讓我們一起練習解題吧
 * 加入Slack討論, 請參考[Soft & Share Kata入口網頁](https://softnshare.wordpress.com/slack/kata/)
 
+## 進行方式
+
+1. 註冊 [codewars](http://www.codewars.com/) 帳號
+2. 至 [github](https://github.com/softnshare/kata/issues/5) 登記 codewars 帳號 -> 讓其他人知道你的帳號，可以 follow 你
+3. 加入 [trello](https://trello.com/b/F7OzGcP5) -> 進行解題任務，追蹤目前解題項目
+4. 加入 [Slack](https://softnshare.slack.com/archives/forum-kata) -> 進行 kata 的討論
+
+
+
 forum-kata 版主 [James Yang](https://github.com/jawayang) 
