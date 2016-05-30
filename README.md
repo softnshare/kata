@@ -29,7 +29,7 @@ codewars 這個網站提供相當多的練習範本而且是免費的
 經過一段時間的練習，系統也會給你一定的評價
 
 ## 現在就加入我們吧
-* 若您有意願一起練習就請你到 codewars 網站申請帳號
+* 若您有意願一起練習就請你到 [codewars](http://www.codewars.com/r/B9BpoA) 網站申請帳號
 * 然後讓我們一起練習解題吧
 * 加入Slack討論, 請參考[Soft & Share Kata入口網頁](https://softnshare.wordpress.com/slack/kata/)
 
