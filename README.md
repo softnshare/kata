@@ -38,6 +38,7 @@ codewars 這個網站提供相當多的練習範本而且是免費的
 1. 註冊 [codewars](http://www.codewars.com/r/B9BpoA) 帳號
 2. 至 [github](https://github.com/softnshare/kata/issues/5) 登記 codewars 帳號 -> 讓其他人知道你的帳號，可以 follow 你
 3. ~~加入 [trello](https://trello.com/invite/b/F7OzGcP5/e743af00810b98997679a5c495360d23/soft-share-forum-kata) -> [kata board](https://trello.com/b/F7OzGcP5) -> 進行解題任務，追蹤目前解題項目~~ 已改為用 github issue 進行
+4. 申請 [kata members](https://github.com/orgs/softnshare/teams/forum-kata) -> 點選 join
 4. 加入 [Slack](https://softnshare.slack.com/archives/forum-kata) -> 進行 kata 的討論
 
 ## 解題步驟說明
